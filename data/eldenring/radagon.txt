@@ -1,0 +1,32 @@
+
+Marriage to Queen Marika
+
+A sculptor from Leyndell was commissioned to create a statue of Radagon.[18] In doing so, he discovered a secret - that Radagon is Marika. This secret was hidden within the statue, and is revealed by casting Law of Regression in front of it, causing the statue's form to change from Radagon to Marika.
+
+Radagon and Marika would go on to have twins: Malenia[19] and Miquella.[20] Since Radagon and Marika were in truth a single being, their children would be born afflicted: Malenia with rotting sickness and Miquella with eternal childhood.[21] While married to Marika, Radagon studied incantations.[13] He and the knowledge he gained studying both sorcery and incantations probably influenced the forming of Golden Order fundamentalism, as it combines both intelligence and faith, and is said to be scholarship in all but name.[22] His son Miquella followed in his fundamentalist footsteps, and created several incantations as gifts for his father.[23][24] Radagon would return the favor with his own gift of gratitude to young Miquella.[25]
+
+
+Radagon trying to repair the Elden Ring.
+
+Following the Night of Black Knives, Marika shattered the Elden Ring, breaking the Golden Order. Radagon, on the other hand, remained loyal to the Golden Order, and attempted to repair the Elden Ring with the same hammer used to shatter it.[26] As punishment, Marika was imprisoned inside the Erdtree. While Radagon had opposed Marika's treachery, he would share Marika's sentence, as the two were now bound in a single body.
+
+When a Tarnished champion sets fire to the Erdtree in order to burn away the wall of thorns denying their entry, they encounter the imprisoned Marika. Suddenly released from her bonds, her hair immediately turns red as Radagon assumes control of their shared body to fight the Tarnished, wielding her hammer. Radagon is unable to do so however, and falls at their hands, his body subsumed by the Elden Beast to be transformed into a large sword as it emerges.
+
+Boss Fight
+Radagon is a two phase boss fight in Elden Ring found in Leyndell, Ashen Capital. Phase one consists of Radagon of the Golden Order and phase two is the Elden Beast.
+
+Phase One
+During this phase he mostly does physical attacks with slight holy damage. Once you get him down to half health he goes into his pseudo second phase. This is when he really starts using his holy attacks and magic to throw holy spears, grab attacks, and he does a big triple charged hammer hit that goes across the entire arena.
+
+Rolling backwards is ill advised, since many of Radagon's attacks have cone-shaped aoe-followups. Healing needs to be timed well, since Radagon can easily deal over 600 damage with one hammer swing and will almost always attempt to heal punish when idle.
+
+The second phase will always start with a charged up aoe-stomp. Is is easier to dodge it by jumping than to roll. Be very careful about attacking Radagon more than once in his phase 2. Usually he just teleports away after getting hit, but sometimes he may cancel his recovery into a quick stomp or a teleport shockwave that he can combo into a hammer thrust.
+
+Radagon's phase 2 "super attack" is when he smashes his hammer into the ground 3 times in a row, creating a large aoe-damage pattern. The third wave will leave a lingering Elden Ring-symbol in front of him that you can't roll through, so you need to either get away from him during the first two waves or be right in his face and dodge to his side.
+
+You can parry Radagon's grounded hammer swings during both of his phases, however you will need to parry him 3 times to get a critical riposte. Also note that Radagon will almost always retaliate to the first two parries with either a plunging attack lightning, or a sped-up version of his command grab.
+
+Radagon also has a parry of his own, where he will raise one hand and slowly walk towards you. If you attack him while he does this, your attack will bounce off and Radagon will immediately do his command grab. He usually only uses this in response to ranged attacks.
+
+Phase Two
+The Elden Beast is a usually slow but extremely hard hitting boss that throws around holy magic to annihilate you, the attacks often overlap as well so you could be facing upwards to 5 attacks all at the same time. Once it reaches half health it will use a triple ring holy explosion shaped like the Elden Ring that if you don't dodge will one shot you.
